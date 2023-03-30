@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/parts/LIB_KMDGX-6S-BS/KMDGX-6S-BS/KiCad")(options "")(descr ""))
+)
