@@ -121,7 +121,8 @@
       "track_widths": [
         0.0,
         0.3,
-        0.5
+        0.5,
+        0.8
       ],
       "via_dimensions": [
         {
@@ -139,7 +140,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "power_pin_not_driven|1136650|952500|d2b0a3ad-8d64-4b9d-a84b-9ed3810ec34b|00000000-0000-0000-0000-000000000000"
+    ],
     "meta": {
       "version": 0
     },

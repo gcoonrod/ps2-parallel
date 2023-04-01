@@ -1,0 +1,7 @@
+{
+    "sketch": "firmware\\arduino\\arduino.ino",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "output": "firmware\\arduino\\build",
+    "port": "COM3"
+}
